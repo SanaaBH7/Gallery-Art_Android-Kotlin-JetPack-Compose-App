@@ -3,6 +3,7 @@ package com.example.gallery_art.ui.theme
 import android.widget.HorizontalScrollView
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Image
+import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.Arrangement
@@ -44,14 +45,10 @@ fun GalleryArtApp(modifier: Modifier = Modifier){
     val appViewModel: GalleryArtViewModel = GalleryAppViewModel
     val appState = appViewModel.uiState.collectAsState()
     Box(
-        modifier = Modifier.fillMaxSize()
+        modifier = Modifier
+            .fillMaxSize()
+            .background(color = colorResource(R.color.teal_200))
     ){
-        Image(
-            modifier = Modifier.fillMaxSize(),
-            painter = painterResource(R.drawable.gallery_backgroud),
-            contentScale = ContentScale.FillBounds,
-            contentDescription = null
-        )
         Column(
             modifier = Modifier.fillMaxSize(),
             horizontalAlignment = Alignment.CenterHorizontally
@@ -89,7 +86,8 @@ fun GalleryArtApp(modifier: Modifier = Modifier){
 @Composable
 fun ShowGalleryImage(
     modifier: Modifier = Modifier,
-    paint: Int){
+    paint: Int)
+{
     Card(
         modifier = Modifier
             .size(400.dp)
