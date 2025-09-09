@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gallery_Art</string>
+    <string name="tour_eiffel_location">Eiffel Tower located in Paris (France) </string>
+    <string name="tour_eiffel_creator">Gustave Eiffel (1887) </string>
+    <string name="pisa_tower_location">Pisa Tower located in Italy </string>
+    <string name="pisa_tower_creator">Bonanno Pisa (1178) </string>
+    <string name="statue_of_liberty_location">Statue of Liberty located in America (New York city)</string>
+    <string name="statue_of_liberty_creator">Frederic Bartholdi and Gustave Eiffel (1876) </string>
+    <string name="taj_mahal_location">Taj Mahal located in Âgrâ (India)</string>
+    <string name="taj_mahal_creator">Created in memory of Mumtaz Mahal emperor Moghol Shah Johan\'s bride</string>
+    <string name="great_wall_of_location">Greate Wall of China</string>
+    <string name="great_wall_creator">Quin Shin Huang (220 before J.C) </string>
+</resources>
