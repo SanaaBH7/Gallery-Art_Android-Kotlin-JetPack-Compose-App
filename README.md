@@ -35,3 +35,6 @@ Gallery Art est une application Android simple et intuitive qui vous permet de d
 
 ## 🤝 Contribution
 Ce projet est open-source. Les contributions, les signalements de bugs et les suggestions d'amélioration sont les bienvenus. N'hésitez pas à créer une pull request ou une issue sur le dépôt GitHub.
+
+## 🖼️ Attribution des images
+Certaines images utilisées dans cette application ne m'appartiennent pas. Elles ont été sélectionnées à partir de sources disponibles publiquement et sont utilisées dans un but de démonstration uniquement.
