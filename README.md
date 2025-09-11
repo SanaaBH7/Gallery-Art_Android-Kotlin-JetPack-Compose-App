@@ -1,6 +1,7 @@
 # Gallery Art app
 Gallery Art est une application Android simple et intuitive qui vous permet de découvrir des monuments et des œuvres d'art célèbres du monde entier. Explorez une galerie d'images de sites emblématiques comme la Tour Eiffel, la Statue de la Liberté, et le Taj Mahal, avec des informations concises sur leur emplacement et leur histoire.
-# ScreenShots
+
+## ScreenShots
 <img src="ScreenShots/img1.png" width="200"> <img src="ScreenShots/img2.png" width="200"> <img src="ScreenShots/img3.png" width="200"> <img src="ScreenShots/img4.png" width="200"> <img src="ScreenShots/img5.png" width="200"> <img src="ScreenShots/img6.png" width="200">
 
 
